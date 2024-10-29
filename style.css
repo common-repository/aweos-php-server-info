@@ -1,0 +1,25 @@
+#awpi-dashboard_overview {
+	background: #228ada;
+	color: white;
+	font-weight: 100;
+}
+
+#awpi-dashboard_overview p {
+	display: inline;
+}
+
+#awpi-dashboard_overview h2 {
+	color: white;
+}
+
+#awpi-info p {
+	font-size: 11px; /* normal: 13; */
+}
+
+#awpi-dashboard_overview b {
+	font-weight: 700;
+}
+
+#awpi-dashboard_overview .toggle-indicator {
+	color: white;
+}
